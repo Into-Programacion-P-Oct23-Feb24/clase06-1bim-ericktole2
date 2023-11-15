@@ -28,38 +28,38 @@ public class Ejemplo011 {
 
             case "lunes":
                 System.out.printf("%s\n Es el primer dia de la "
-                        + "semana ", cadena);
+                        + "semana\n ", cadena);
                 break;
 
             case "martes":
                 System.out.printf("%s\n Es el segundo dia de "
-                        + "la semana ", cadena);
+                        + "la semana\n ", cadena);
                 break;
 
             case "miercoles":
                 System.out.printf("%s\n Es el tercer dia de la"
-                        + " semana", cadena);
+                        + " semana\n", cadena);
                 break;
 
             case "jueves":
 
                 System.out.printf("%s\n Es el cuarto dia de la "
-                        + "semana", cadena);
+                        + "semana\n", cadena);
                 break;
 
             case "viernes":
                 System.out.printf("%s\n Es el quinto dia de la "
-                        + "semana", cadena);
+                        + "semana\n", cadena);
                 break;
 
             case "sabado":
                 System.out.printf("%s\n Es el sexto da de la "
-                        + "semana", cadena);
+                        + "semana\n", cadena);
                 break;
 
             case "domingo":
                 System.out.printf("%s\n Es el serptimo dia "
-                        + "de la semana ", cadena);
+                        + "de la semana\n ", cadena);
                 break;
 
             default:

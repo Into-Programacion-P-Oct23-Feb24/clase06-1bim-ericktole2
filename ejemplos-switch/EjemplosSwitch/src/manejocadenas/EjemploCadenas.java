@@ -13,8 +13,10 @@ public class EjemploCadenas {
     public static void main(String[] args) {
         String ciudad = "loJa";
         ciudad = ciudad.toUpperCase();
-        System.out.printf("%s\n", ciudad.toLowerCase());
+        System.out.printf("%s\n", ciudad.toLowerCase()); 
+        // .toLowerCase es un metodo para volver una variable en letras minusculas
         System.out.printf("%s\n", ciudad.toUpperCase());
+        // .toUpperCase es un metodo para volver una variable en letras mayuscula
         System.out.printf("%s\n", ciudad);
         
         
